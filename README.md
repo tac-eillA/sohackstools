@@ -1,4 +1,4 @@
-![logo](http://trevorsnodgrass.com/assets/logo.png)
+![picture](http://trevorsnodgrass.com/assets/logo.png)
 # Useful Tools for SoHacks Hackers #
 
 Ask a programmer what tools to use in a certain situation and you are bound to get ***thousands*** back in response. So to help you get started with your projects we came up with a list of tools to make your life easier.
@@ -59,6 +59,7 @@ So lets get started!
 ---
 
 ###### A Note On Cloud Hosting ######
-If you are looking for a way to host your webpage or web application there are a few ways for you to do this that are entirely free and we wanted to make you aware of. First you have Github Pages, this will allow you to host any ***Static*** webpage (html, css, and javascript) for free using [github username].github.io for your domain name. If you own a custom domain name that can be added and used just by adding a single file with the new name and doing some linking with your domain provider (Like Google Domains). Secondly, there is Red Hat Openshift, a cloud hosting program with a free tier available to everyone. Created by Red Hat, the company behind one of the most popular Linux Distributions ![picture](http://trevorsnodgrass.com/assets/gnupluslinux.jpg)
+If you are looking for a way to host your webpage or web application there are a few ways for you to do this that are entirely free and we wanted to make you aware of. First you have Github Pages, this will allow you to host any ***Static*** webpage (html, css, and javascript) for free using [github username].github.io for your domain name. If you own a custom domain name that can be added and used just by adding a single file with the new name and doing some linking with your domain provider (Like Google Domains). Secondly, there is Red Hat Openshift, a cloud hosting program with a free tier available to everyone. Created by Red Hat, the company behind one of the most popular Linux Distributions 
+![picture](http://trevorsnodgrass.com/assets/gnupluslinux.jpg)
 for... businesses... um okay back to what I was saying... Openshift allows you to host software built using node.js, python, ruby, angular, etc. Think of it as a way to put added functionality to a website. For example the SoHacks Bot on Slack is a program I wrote and am hosting through an Openshift node.js server. Put both Github Pages and Openshift together and you can create some amazing web based software, but can also be used if you just want to make a webpage talking abut the software you have created!
 
