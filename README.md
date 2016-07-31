@@ -52,6 +52,8 @@ So lets get started!
 1. [Arduino](https://www.arduino.cc/) - An IDE used to create programs for Arduino devices. If you are looking to make a hardware based project this is a great way to go!
 2. [Processing](https://processing.org/) - Powerful tool for turning code into art. Used mainly to take data from an Arduino device and use that to manipulate images within the program.
 3. [IDLE](https://www.python.org/) - This IDE comes bundled when you install Python onto your computer and is a great way to sandbox code or test full programs when using the command line is not your thing.
+ 
+
 ---
 
 ##### If you have a type of software that you need but don't see on the list, feel free to talk to one of the mentors!#####
