@@ -65,5 +65,5 @@ If you are looking for a way to host your webpage or web application there are a
 
 ![picture](http://trevorsnodgrass.com/assets/gnupluslinux.jpg)
 
-for... businesses... um okay back to what I was saying... Openshift allows you to host software built using node.js, python, ruby, angular, etc. Think of it as a way to put added functionality to a website. For example the SoHacks Bot on Slack is a program I wrote and am hosting through an Openshift node.js server. Put both Github Pages and Openshift together and you can create some amazing web based software, but can also be used if you just want to make a webpage talking abut the software you have created!
+for... businesses... um okay back to what I was saying... Openshift allows you to host software built using node.js, python, ruby, angular, etc. Think of it as a way to put added functionality to a website. For example the SoHacks Bot on Slack is a program I wrote and am hosting through an Openshift node.js server. Put both Github Pages and Openshift together and you can create some amazing web based software, but can also be used if you just want to make a webpage talking about the software you have created!
 
